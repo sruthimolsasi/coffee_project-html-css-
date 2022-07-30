@@ -18,7 +18,7 @@ body
    background-color: aliceblue;
    position:sticky;
    top: 0px; 
-   
+   z-index: 2;
    
 }
 .headerimg1
@@ -117,7 +117,7 @@ height: 400px;
     position: relative;
     margin-top: 120px;
     background-color: blanchedalmond;
-    
+    z-index: 1;
   }
  .colum
  {
